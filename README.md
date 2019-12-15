@@ -1,3 +1,8 @@
+# life-calendar
+
+Inspired by this [TED talk](https://www.youtube.com/watch?v=arj7oStGLkU) by Tim Urban using [this react component](https://github.com/simonguest/react-lifecalendar)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
